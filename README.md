@@ -93,4 +93,4 @@ and you good to go!
 
 | Word Details Modal                                                   | Update Word Modal                                                                                            | Delete Word Flash                                                   |
 | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- |
-| <img src="assets/images/detailsModal.jpg" width="250" height="500"/> | <img src="/home/huseyin/projects/orion_p2-main/assets/images/updateWordModal.jpg" width="250" height="500"/> | <img src="assets/images/removeFlash.jpg" width="250" height="500"/> |
+| <img src="assets/images/detailsModal.jpg" width="250" height="500"/> | <img src="assets/images/updateWordModal.jpg" width="250" height="500"/> | <img src="assets/images/removeFlash.jpg" width="250" height="500"/> |
