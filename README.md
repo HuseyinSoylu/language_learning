@@ -83,14 +83,14 @@ and you good to go!
 
 ## Screens
 
-| Login                                                          | Register                                                          | Home Screen                                                   |
-| -------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------- |
-| <img src=".github/images/login.jpg" width="250" height="500"/> | <img src=".github/images/register.jpg" width="250" height="500"/> | <img src=".github/images/main.jpg" width="250" height="500"/> |
+| Login                                                         | Register                                                         | Home Screen                                                  |
+| ------------------------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------ |
+| <img src="assets/images/login.jpg" width="250" height="500"/> | <img src="assets/images/register.jpg" width="250" height="500"/> | <img src="assets/images/main.jpg" width="250" height="500"/> |
 
-| Flash Cards                                                        | Profile                                                          | Add Word Modal                                                        |
-| ------------------------------------------------------------------ | ---------------------------------------------------------------- | --------------------------------------------------------------------- |
-| <img src=".github/images/flashcard.jpg" width="250" height="500"/> | <img src=".github/images/profile.jpg" width="250" height="500"/> | <img src=".github/images/addWordModal.jpg" width="250" height="500"/> |
+| Flash Cards                                                       | Profile                                                         | Add Word Modal                                                       |
+| ----------------------------------------------------------------- | --------------------------------------------------------------- | -------------------------------------------------------------------- |
+| <img src="assets/images/flashcard.jpg" width="250" height="500"/> | <img src="assets/images/profile.jpg" width="250" height="500"/> | <img src="assets/images/addWordModal.jpg" width="250" height="500"/> |
 
-| Word Details Modal                                                    | Update Word Modal                                                                                             | Delete Word Flash                                                    |
-| --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| <img src=".github/images/detailsModal.jpg" width="250" height="500"/> | <img src="/home/huseyin/projects/orion_p2-main/.github/images/updateWordModal.jpg" width="250" height="500"/> | <img src=".github/images/removeFlash.jpg" width="250" height="500"/> |
+| Word Details Modal                                                   | Update Word Modal                                                                                            | Delete Word Flash                                                   |
+| -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- |
+| <img src="assets/images/detailsModal.jpg" width="250" height="500"/> | <img src="/home/huseyin/projects/orion_p2-main/assets/images/updateWordModal.jpg" width="250" height="500"/> | <img src="assets/images/removeFlash.jpg" width="250" height="500"/> |
