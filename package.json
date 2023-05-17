@@ -48,7 +48,7 @@
     "popup-ui": "^1.2.2",
     "react": "18.0.0",
     "react-hook-form": "^7.38.0",
-    "react-native": "0.69.6",
+    "react-native": "0.71.7",
     "react-native-animated-nav-tab-bar": "^3.1.8",
     "react-native-card-flip": "^1.0.7",
     "react-native-complete-flatlist": "^2.0.13",
